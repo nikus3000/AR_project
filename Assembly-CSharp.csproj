@@ -64,7 +64,9 @@
   <ItemGroup>
     <Compile Include="Assets\Joystick\Scripts\Base\Joystick.cs" />
     <Compile Include="Assets\Joystick\Scripts\Joysticks\FixedJoystick.cs" />
-    <Compile Include="Assets\Scripts\MyScript.cs" />
+    <Compile Include="Assets\Scripts\JoyScript1.cs" />
+    <Compile Include="Assets\Scripts\MyJoystick.cs" />
+    <Compile Include="Assets\Scripts\MyJoystick2.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
